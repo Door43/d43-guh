@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[guh:home|Door43 (guh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-guh|d43-guh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-guh/archive/master.zip|d43-guh.zip]]
+
+**Recent Changes**
+{{changes>ns = guh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/guh|Ethnologue data]]
+
